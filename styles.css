@@ -81,7 +81,7 @@ span a:hover {
 }
 
 .avatar img {
-    width: 100%;
+    width: auto;
     height: 100%;
 }
 
